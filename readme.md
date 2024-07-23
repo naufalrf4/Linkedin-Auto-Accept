@@ -14,8 +14,8 @@ A script to automate the acceptance of all LinkedIn invitations using Selenium W
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/naufalrf4/linkedin-accept-script.git
-   cd linkedin-accept-script
+   git clone https://github.com/naufalrf4/Linkedin-Auto-Accept.git
+   cd Linkedin-Auto-Accept
    ```
 
 2. **Create a virtual environment:**
